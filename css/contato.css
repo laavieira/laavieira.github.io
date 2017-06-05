@@ -1,0 +1,9 @@
+.contato {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.btn-enviar{
+    position: relative;
+    bottom: 10px;
+}
